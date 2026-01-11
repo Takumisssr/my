@@ -1,0 +1,7 @@
+{
+  "name": "Aesthetic Analysis AI",
+  "description": "Professional facial aesthetics analysis tool providing detailed reports on facial proportions (Golden Ratio) and personalized enhancement suggestions for the beauty industry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
